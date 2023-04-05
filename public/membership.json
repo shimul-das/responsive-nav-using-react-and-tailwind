@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Basic",
+      "price": 25.00,
+      "tools": ["treadmill", "dumbbells"]
+    },
+    {
+      "id": 2,
+      "name": "Premium",
+      "price": 50.00,
+      "tools": ["treadmill", "dumbbells", "yoga mat", "spin bike"]
+    },
+    {
+      "id": 3,
+      "name": "VIP",
+      "price": 100.00,
+      "tools": ["treadmill", "dumbbells", "yoga mat", "spin bike", "pool access", "sauna"]
+    }
+  ]
+  
